@@ -17,7 +17,7 @@ public class tryConnectPassword {
         try {
             connection = dbHelper.getConnection();
             statement = connection.createStatement();
-            String sql = "SELECT userName FROM login WHERE userName = '" + enteredPassword + "'";
+            String sql = "SELECT userName FROM login WHERE password = '" + enteredPassword + "'";
             resultSet = statement.executeQuery(sql);
             
             return resultSet.next(); // Kullanıcı adı bulunursa true, bulunmazsa false dönecektir.
