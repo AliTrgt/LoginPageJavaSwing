@@ -1,8 +1,8 @@
 # LoginPageJava
 <table>
   <tr>
-    <td><img src="images/loginPage.png" alt="Proje Örneği" width="1000"/></td>
-    <td><img src="images/registerPage.png" alt="Proje Örneği" width="1000"/></td>
+    <td><img src="images/loginPage.png" alt="Proje Örneği" width="600"/></td>
+    <td><img src="images/registerPage.png" alt="Proje Örneği" width="600"/></td>
   </tr>
 </table>
 
