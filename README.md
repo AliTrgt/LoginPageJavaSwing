@@ -1,33 +1,30 @@
 # LoginPageJava
-![Proje Örneği](proje_resmi.png) <!-- Projeye ait bir ekran görüntüsü veya logo -->
+![Proje Örneği](images/loginPage.png) 
+![Proje Örneği](images/registerPage.png)
+<!-- Projeye ait bir ekran görüntüsü veya logo -->
 
-Açıklama kısmı buraya gelebilir. Projeyi tanımlayın ve neden bu projenin önemli olduğunu anlatın.
+Bu GitHub Reposu, temel bir giriş sayfası (login page) örneğini içermektedir. JAVA,SWING,MYSQL kullanarak oluşturulmuştur.Kullanıcıların basitçe giriş yapabileceği bir arayüz tasarımını içermektedir.Giriş işleminin yapılabilmesi için kayıt olunması gerekmektedir.Giriş yapılmaz ise program şifre ya da kullanıcı adı yanlış hatası vermektedir
+
 
 ## Özellikler
 
 - Kullanıcı girişi yapılabilen bir giriş sayfası.
+- Kullanıcı kaydı yapılabilen bir giriş sayfası.
 - Veritabanı ile iletişim kurmak için JDBC ve MySQL kullanımı.
 
 ## Gereksinimler
 
 - Java JDK (örneğin, Java 8 veya üstü)
 - MySQL veritabanı
+- Swing GUI kütüphanesi
+- Netbeans(IDE)
 
 ## Kurulum
 
-1. Veritabanını oluşturmak için `veritabani.sql` dosyasını MySQL veritabanınıza içe aktarın.
+1. Veritabanını oluşturmak için `login.sql` dosyasını MySQL veritabanınıza içe aktarın.
 2. Proje klasöründeki `src` dizinine gidin.
 3. Terminal veya Komut İstemi'ni açın ve aşağıdaki komutları çalıştırın:
 
-
-## Kullanım
-
-1. Terminal veya Komut İstemi'nde projenin bulunduğu dizine gidin.
-2. Aşağıdaki komutları kullanarak projeyi başlatın:
-
-
-
-3. Tarayıcınızda `http://localhost:8080` adresine gidin.
 
 ## Katkıda Bulunma
 
@@ -43,7 +40,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICEN
 
 ---
 
-**İletişim**: E-posta adresiniz veya diğer iletişim bilgileriniz burada yer alabilir.
 
-**Teşekkürler**: Bu bölümde projenizi geliştirirken size yardımcı olan kişilere veya kaynaklara teşekkür edebilirsiniz.
+
+
 
