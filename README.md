@@ -3,7 +3,7 @@
 ![Proje Örneği](images/registerPage.png)
 <!-- Projeye ait bir ekran görüntüsü veya logo -->
 
-Bu GitHub Reposu, temel bir giriş sayfası (login page) örneğini içermektedir. JAVA,SWING,MYSQL kullanarak oluşturulmuştur.Kullanıcıların basitçe giriş yapabileceği bir arayüz tasarımını içermektedir.Giriş işleminin yapılabilmesi için kayıt olunması gerekmektedir.Giriş yapılmaz ise program şifre ya da kullanıcı adı yanlış hatası vermektedir
+Bu gitHub reposu, temel bir giriş sayfası (login page) örneğini içermektedir. JAVA,SWING,MYSQL kullanarak oluşturulmuştur.Kullanıcıların basitçe giriş yapabileceği bir arayüz tasarımını içermektedir.Giriş işleminin yapılabilmesi için kayıt olunması gerekmektedir.Giriş yapılmaz ise program şifre ya da kullanıcı adı yanlış hatası vermektedir.
 
 
 ## Özellikler
@@ -17,7 +17,7 @@ Bu GitHub Reposu, temel bir giriş sayfası (login page) örneğini içermektedi
 - Java JDK (örneğin, Java 8 veya üstü)
 - MySQL veritabanı
 - Swing GUI kütüphanesi
-- Netbeans(IDE)
+- NetBeans(IDE)
 
 ## Kurulum
 
