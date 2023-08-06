@@ -23,16 +23,16 @@ Bu gitHub reposu, temel bir giriş sayfası (login page) örneğini içermektedi
 
 1. Veritabanını oluşturmak için `login.sql` dosyasını MySQL veritabanınıza içe aktarın.
 2. Proje klasöründeki `src` dizinine gidin.
-3. Terminal veya Komut İstemi'ni açın ve aşağıdaki komutları çalıştırın:
+3. Terminal veya Komut İstemi'ni açın ve komutları çalıştırın:
 
 
 ## Katkıda Bulunma
 
-1. Bu depoyu "Fork" edin.
-2. Yeni bir dal oluşturun (`git checkout -b yeni-ozellik`)
-3. Değişikliklerinizi yapın ve bunları taahhüt edin (`git commit -am 'Yeni özellik eklendi'`)
-4. Dalınızı ana depoya itin (`git push origin yeni-ozellik`)
-5. Bir Pull Talebi oluşturun.
+1. Bu repoyu "Fork" edin.
+2. Yeni bir branch oluşturun (`git checkout -b yeni-ozellik`)
+3. Değişikliklerinizi yapın ve bunları commit edin (`git commit -am 'Yeni özellik eklendi'`)
+4. Dalınızı main'e pushlayın (`git push origin yeni-ozellik`)
+5. Bir Pull Request oluşturun.
 
 ## Lisans
 
