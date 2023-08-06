@@ -1,6 +1,12 @@
 # LoginPageJava
-![Proje Örneği](images/loginPage.png) 
-![Proje Örneği](images/registerPage.png)
+<table>
+  <tr>
+    <td><img src="images/loginPage.png" alt="Proje Örneği" width="500"/></td>
+    <td><img src="images/registerPage.png" alt="Proje Örneği" width="500"/></td>
+  </tr>
+</table>
+
+
 <!-- Projeye ait bir ekran görüntüsü veya logo -->
 
 Bu gitHub reposu, temel bir giriş sayfası (login page) örneğini içermektedir. JAVA,SWING,MYSQL kullanarak oluşturulmuştur.Kullanıcıların basitçe giriş yapabileceği bir arayüz tasarımını içermektedir.Giriş işleminin yapılabilmesi için kayıt olunması gerekmektedir.Giriş yapılmaz ise program şifre ya da kullanıcı adı yanlış hatası vermektedir.
